@@ -11,11 +11,11 @@ plugins {
     id 'java'
     id 'com.google.protobuf' version '0.8.18'
 }
+
 repositories {
     mavenCentral()
     mavenLocal()
 }
-
 group 'com.example'
 version '0.0.1-SNAPSHOT'
 dependencies {
